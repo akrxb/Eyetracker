@@ -21,8 +21,6 @@ El proyecto utiliza **MediaPipe Face Landmarker** para la detección precisa de 
 
 ## 🛠️ Requisitos e Instalación
 
-### Opción 1: Recrear el entorno con Conda (Recomendado)
-
 Si dispones de Anaconda o Miniconda instalado, puedes recrear exactamente el entorno virtual desde el archivo `environment.yml` incluido en el repositorio:
 
 ```bash
