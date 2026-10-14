@@ -25,7 +25,7 @@ Si dispones de Anaconda o Miniconda instalado, puedes recrear exactamente el ent
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/akrxb/Eyetracker.git](https://github.com/akrxb/Eyetracker.git)
+git clone https://github.com/akrxb/Eyetracker.git
 cd Eyetracker
 
 # 2. Crear el entorno virtual
